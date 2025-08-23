@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Money Plant",
+    "price": 390.45,
+    "categories": [
+      "Low Maintenance"
+    ],
+    "available": true
+  },
+  {
+    "name": "Snake Plant",
+    "price": 164.19,
+    "categories": [
+      "Outdoor",
+      "Flowering",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Spider Plant",
+    "price": 132.75,
+    "categories": [
+      "Low Maintenance",
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Peace Lily",
+    "price": 180.64,
+    "categories": [
+      "Indoor",
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Aloe Vera",
+    "price": 666.56,
+    "categories": [
+      "Indoor",
+      "Low Maintenance",
+      "Herb"
+    ],
+    "available": true
+  },
+  {
+    "name": "Areca Palm",
+    "price": 140.92,
+    "categories": [
+      "Home Decor"
+    ],
+    "available": false
+  },
+  {
+    "name": "ZZ Plant",
+    "price": 228.83,
+    "categories": [
+      "Herb"
+    ],
+    "available": true
+  },
+  {
+    "name": "Jade Plant",
+    "price": 603.23,
+    "categories": [
+      "Succulent",
+      "Outdoor",
+      "Air Purifying"
+    ],
+    "available": true
+  },
+  {
+    "name": "Rubber Plant",
+    "price": 186.69,
+    "categories": [
+      "Outdoor",
+      "Indoor",
+      "Air Purifying"
+    ],
+    "available": false
+  },
+  {
+    "name": "Boston Fern",
+    "price": 711.36,
+    "categories": [
+      "Flowering",
+      "Hanging"
+    ],
+    "available": false
+  },
+  {
+    "name": "Chinese Evergreen",
+    "price": 424.42,
+    "categories": [
+      "Succulent"
+    ],
+    "available": true
+  },
+  {
+    "name": "Croton",
+    "price": 172.67,
+    "categories": [
+      "Bonsai",
+      "Hanging"
+    ],
+    "available": true
+  },
+  {
+    "name": "Dracaena",
+    "price": 755.5,
+    "categories": [
+      "Herb",
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Pothos",
+    "price": 559.74,
+    "categories": [
+      "Flowering"
+    ],
+    "available": true
+  },
+  {
+    "name": "Philodendron",
+    "price": 938.94,
+    "categories": [
+      "Indoor",
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "price": 405.11,
+    "categories": [
+      "Herb",
+      "Hanging"
+    ],
+    "available": false
+  },
+  {
+    "name": "English Ivy",
+    "price": 160.89,
+    "categories": [
+      "Home Decor"
+    ],
+    "available": false
+  },
+  {
+    "name": "Parlor Palm",
+    "price": 726.34,
+    "categories": [
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Bird of Paradise",
+    "price": 681.42,
+    "categories": [
+      "Hanging",
+      "Home Decor",
+      "Low Maintenance"
+    ],
+    "available": true
+  },
+  {
+    "name": "Calathea",
+    "price": 119.31,
+    "categories": [
+      "Flowering",
+      "Succulent"
+    ],
+    "available": true
+  },
+  {
+    "name": "Aglaonema Red",
+    "price": 543.32,
+    "categories": [
+      "Home Decor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Bougainvillea",
+    "price": 763.53,
+    "categories": [
+      "Low Maintenance",
+      "Hanging"
+    ],
+    "available": true
+  },
+  {
+    "name": "Hibiscus",
+    "price": 248.73,
+    "categories": [
+      "Bonsai",
+      "Home Decor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Rose",
+    "price": 836.35,
+    "categories": [
+      "Home Decor",
+      "Low Maintenance",
+      "Flowering"
+    ],
+    "available": false
+  },
+  {
+    "name": "Lavender",
+    "price": 960.96,
+    "categories": [
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Basil",
+    "price": 235.17,
+    "categories": [
+      "Air Purifying",
+      "Indoor",
+      "Hanging"
+    ],
+    "available": true
+  },
+  {
+    "name": "Mint",
+    "price": 335.47,
+    "categories": [
+      "Succulent"
+    ],
+    "available": false
+  },
+  {
+    "name": "Thyme",
+    "price": 580.13,
+    "categories": [
+      "Herb",
+      "Flowering",
+      "Succulent"
+    ],
+    "available": true
+  },
+  {
+    "name": "Rosemary",
+    "price": 509.98,
+    "categories": [
+      "Bonsai",
+      "Low Maintenance",
+      "Herb"
+    ],
+    "available": false
+  },
+  {
+    "name": "Bamboo Palm",
+    "price": 453.71,
+    "categories": [
+      "Low Maintenance",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Cactus Golden Barrel",
+    "price": 159.61,
+    "categories": [
+      "Hanging"
+    ],
+    "available": true
+  },
+  {
+    "name": "Echeveria",
+    "price": 197.94,
+    "categories": [
+      "Indoor",
+      "Outdoor",
+      "Herb"
+    ],
+    "available": true
+  },
+  {
+    "name": "Haworthia",
+    "price": 581.96,
+    "categories": [
+      "Herb",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Kalanchoe",
+    "price": 885.9,
+    "categories": [
+      "Low Maintenance",
+      "Succulent",
+      "Home Decor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Sedum",
+    "price": 641.05,
+    "categories": [
+      "Outdoor",
+      "Herb"
+    ],
+    "available": false
+  },
+  {
+    "name": "Adenium Desert Rose",
+    "price": 992.79,
+    "categories": [
+      "Hanging",
+      "Herb"
+    ],
+    "available": true
+  },
+  {
+    "name": "Neem",
+    "price": 176.3,
+    "categories": [
+      "Flowering"
+    ],
+    "available": true
+  },
+  {
+    "name": "Tulsi",
+    "price": 529.76,
+    "categories": [
+      "Succulent",
+      "Bonsai",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Chrysanthemum",
+    "price": 954.89,
+    "categories": [
+      "Flowering",
+      "Succulent",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Marigold",
+    "price": 979.65,
+    "categories": [
+      "Home Decor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Chlorophytum",
+    "price": 916.43,
+    "categories": [
+      "Air Purifying",
+      "Bonsai"
+    ],
+    "available": true
+  },
+  {
+    "name": "Schefflera",
+    "price": 671.8,
+    "categories": [
+      "Air Purifying",
+      "Herb",
+      "Low Maintenance"
+    ],
+    "available": true
+  },
+  {
+    "name": "Ponytail Palm",
+    "price": 278.93,
+    "categories": [
+      "Flowering",
+      "Indoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Peperomia",
+    "price": 810.1,
+    "categories": [
+      "Home Decor",
+      "Air Purifying"
+    ],
+    "available": true
+  },
+  {
+    "name": "Syngonium",
+    "price": 501.5,
+    "categories": [
+      "Flowering",
+      "Herb",
+      "Outdoor"
+    ],
+    "available": true
+  },
+  {
+    "name": "Dieffenbachia",
+    "price": 190.94,
+    "categories": [
+      "Air Purifying",
+      "Flowering"
+    ],
+    "available": true
+  },
+  {
+    "name": "Areca Dypsis",
+    "price": 533.39,
+    "categories": [
+      "Indoor",
+      "Hanging",
+      "Flowering"
+    ],
+    "available": true
+  },
+  {
+    "name": "Coleus",
+    "price": 850.18,
+    "categories": [
+      "Low Maintenance"
+    ],
+    "available": true
+  },
+  {
+    "name": "Ixora",
+    "price": 529.23,
+    "categories": [
+      "Low Maintenance"
+    ],
+    "available": true
+  },
+  {
+    "name": "Morning Glory",
+    "price": 177.07,
+    "categories": [
+      "Low Maintenance",
+      "Hanging",
+      "Herb"
+    ],
+    "available": true
+  }
+]
