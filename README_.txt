@@ -62,9 +62,9 @@ How to Run
 4. Start Frontend
    cd frontend
    npm run dev
-   Runs on http://localhost:5173
+   Runs on http://localhost:4000
 
-   Open the browser at http://localhost:5173
+   Open the browser at http://localhost:4000
 
 API Endpoints
 -------------

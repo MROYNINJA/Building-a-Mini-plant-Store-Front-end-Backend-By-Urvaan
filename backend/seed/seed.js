@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import url from 'url';
 import dotenv from 'dotenv';
-import './src/db.js';
-import Plant from './src/models/Plant.js';
+import '../src/db.js';
+import Plant from '../src/models/Plant.js';
 
 dotenv.config();
 
